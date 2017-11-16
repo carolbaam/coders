@@ -1,0 +1,73 @@
+section{
+
+    /*outline: solid black 1px;*/
+    width:1000px;
+    height: 1000px;
+    font-family:  'Montserrat', sans-serif;
+
+}
+
+h4{
+    display:block;
+    padding-left: 60px;
+    width:200px;
+    height: 30px;
+    margin:0px;
+    padding-top: 30px;
+   
+}
+
+hr{
+    width: 50px;
+    right: 200px;
+    margin-left: 57px;
+}
+.one,
+.tow,
+.three,
+.four,
+.five,
+.six {
+   float: left;
+   width:200px;
+   height: 200px;
+   background-color: grey;
+   /*outline: black solid 1px;*/
+   position: relative;
+   left:45px;
+   bottom:-13px;
+   margin: 10px;
+}
+
+.first-image,
+.second-image,
+.third-image,
+.fourth-image,
+.fifth-image,
+.sixth-image
+
+{
+  width: 200px;
+  height: 200px;
+}
+.one{
+    position: relative;
+  
+}
+
+
+
+.four{
+    clear:left;
+
+}
+
+h6{
+ font-size: 10px;
+ position: relative;
+ left:70px;
+ bottom:60px;
+ color:white;
+ font-weight: 10px;
+
+}
